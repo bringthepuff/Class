@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="4.1.css" rel="stylesheet">
+</head>
+<body>
+    <div class="document">
+        <p class="page-number">8</p>
+        <h2>Static electricity.</h2>
+        <p>Protection against discharges of static electricity is a common feature of mine regulations. Precautions are required for electrical equipment, for explosives loaded into blastholes (30 CFR 57.6602), for nonmetallic rotating parts such as belts (30 CFR 18.26), for venturi air movers powered by compressed air, and for similar devices where static charges are likely to collect. The National Fire Protection Association [NFPA 2000] and many Internet sites have more information on how to prevent static electricity.</p>
+        
+        <p>Although controlling static electricity in mines is important, it has not been a common source of methane explosions in underground mines, possibly due to higher humidity underground. Nevertheless, extra precaution should be taken where acetylene is used, since acetylene is much more easily ignited by static electricity than methane.</p>
+        
+        <h2>Lightning.</h2>
+        <p>The South African underground coal mining industry has seen many incidents related to the passage of lightning storms on the surface. These incidents included electrical shocks, visible sparking from mining equipment, premature detonation of explosives, and methane explosions. The majority were in shallow mines at depths of 300 ft or less. Precautions to prevent these lightning-related incidents included lightning warning techniques, the use of less sensitive detonators, modified blasting practices, and improved electrical grounding of mining equipment [Geldenhuys et al. 1985].</p>
+        
+        <p>In the United States, lightning has been reported as the explosion source at two mines in Alabama [Checca and Zuchelli 1995]. Both mines had been worked since the 1970s and had large sections that had been abandoned and permanently sealed. The mines were deeper (500 and 1,200 ft) than those in South Africa. However, in the investigation following each of the explosions, it was found that the lightning strike occurred at a location where there was a convenient conduit for electrical current into a sealed area of the mine. In one instance, it was an old capped shaft; in the other, it was a test well with a metal casing that extended from a foot below the surface to a foot above the floor. On the surface, this test well was located in a fenced area that enclosed a methane-pumping unit.</p>
+        
+        <p>More recently, Novak and Fisher [2000] conducted computer simulations of lightning propagation through the earth to confirm whether lightning could penetrate a 600-ft-deep mine with enough energy to trigger methane explosions. They found that the presence of a steel-cased borehole dramatically enhances the possibility of lightning starting an explosion. With a steel-cased borehole, the calculated voltage difference between a roof bolt adjacent to the borehole and a section of rail on the floor was 15.6 kV.</p>
+        
+        <h1>The Amount of Methane Stored in Coal</h1>
+        <p>Coal is the major source of methane gas in mines. Smaller (but still dangerous) amounts of methane are found in oil shale, porous rock, and water. Methane in oil shale has been measured by Kissell [1975], Matta et al. [1977], and Schatzel and Cooke [1994]. Methane stored in porous</p>
+    </div>
+</body>
+</html>
